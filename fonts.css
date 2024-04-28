@@ -1,22 +1,22 @@
 @font-face {
   font-family: 'ALS';
-  src: url('../fonts/als_regular.otf');
+  src: url('https://rawcdn.githack.com/alimardonbegov/fonts/main/fonts/als_regular.otf');
   font-weight: regular;
 }
 
 @font-face {
   font-family: 'ALS';
-  src: url('../fonts/als_bold.otf');
+  src: url('https://rawcdn.githack.com/alimardonbegov/fonts/main/fonts/als_bold.otf');
   font-weight: bold;
 }
 
 @font-face {
   font-family: 'ALS';
-  src: url('../fonts/als_extra_bold.otf');
+  src: url('https://rawcdn.githack.com/alimardonbegov/fonts/main/fonts/als_extra_bold.otf');
   font-weight: extra_bold;
 }
 
 @font-face {
   font-family: 'Sans';
-  src: url('../fonts/sans.otf');
+  src: url('https://rawcdn.githack.com/alimardonbegov/fonts/main/fonts/sans.otf');
 }
