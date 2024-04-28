@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'ALS';
+    src: url(https://cloud.mail.ru/public/EhCc/FU2pr9Nia);
+    font-weight: regular;
+  }
+
+  @font-face {
+    font-family: 'ALS';
+    src: url(https://cloud.mail.ru/public/Lzqz/3s8nBT8H4);
+    font-weight: bold;
+  }
+
+  @font-face {
+    font-family: 'ALS';
+    src: url(https://cloud.mail.ru/public/cpM9/5kB2LZCvq);
+    font-weight: extra_bold;
+  }
+
+  @font-face {
+    font-family: 'Sans';
+    src: url(https://cloud.mail.ru/public/hk3Q/vMnKbNBCr);
+  }
